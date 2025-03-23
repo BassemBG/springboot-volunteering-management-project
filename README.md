@@ -1,29 +1,29 @@
 📌 Overview
 
-This is a Java-based project developed as part of my learning journey in software development. This project focuses on applying Java programming concepts, implementing object-oriented principles, and exploring Java frameworks and tools like springboot.
+- This is a Java-based project developed as part of my learning journey in software development. This project focuses on applying Java programming concepts, implementing object-oriented principles, and exploring Java frameworks and tools like springboot.
 
 🛠 Technologies Used
 
-Java (JDK 17)
+- Java (JDK 17)
 
-Spring Boot for backend services
+- Spring Boot for backend services
 
-Spring Data JPA with Hibernate for database interaction
+- Spring Data JPA with Hibernate for database interaction
 
-MySQL as the database
+- MySQL as the database
 
-Maven for dependency management
+- Maven for dependency management
 
 
 🚀 Features
 
-RESTful API implementation using Spring Boot
+- RESTful API implementation using Spring Boot
 
-CRUD operations for managing entities
+- CRUD operations for managing entities
 
-Exception handling
+- Exception handling
 
-Use of ResponseEntity for standardized API responses
+- Use of ResponseEntity for standardized API responses
 
-Database interaction using JPA and Hibernate
+- Database interaction using JPA and Hibernate
 
